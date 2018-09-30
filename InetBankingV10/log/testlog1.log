@@ -1,0 +1,349 @@
+2018-09-06 23:03:21,364 [main] INFO Inetbanking - URL Opened
+2018-09-06 23:03:21,484 [main] INFO Inetbanking - User Name Entered
+2018-09-06 23:03:21,535 [main] INFO Inetbanking - Password Entered
+2018-09-06 23:03:22,417 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-06 23:03:22,420 [main] INFO Inetbanking - Login Test Passed
+2018-09-07 00:11:29,495 [main] INFO Inetbanking - URL Opened
+2018-09-07 00:11:30,057 [main] INFO Inetbanking - User Name Entered
+2018-09-07 00:11:30,109 [main] INFO Inetbanking - Password Entered
+2018-09-07 00:11:31,065 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-07 00:11:31,070 [main] INFO Inetbanking - Login Test Passed
+2018-09-07 01:00:07,228 [main] INFO Inetbanking - URL Opened
+2018-09-07 01:00:07,345 [main] INFO Inetbanking - User Name Entered
+2018-09-07 01:00:07,404 [main] INFO Inetbanking - Password Entered
+2018-09-07 01:00:08,476 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-07 01:00:08,482 [main] INFO Inetbanking - Login Test Passed
+2018-09-07 01:17:25,496 [main] INFO Inetbanking - URL Opened
+2018-09-07 01:17:25,611 [main] INFO Inetbanking - User Name Entered
+2018-09-07 01:17:25,662 [main] INFO Inetbanking - Password Entered
+2018-09-07 01:17:26,480 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-07 01:17:26,483 [main] INFO Inetbanking - Login Test Passed
+2018-09-07 01:19:55,482 [main] INFO Inetbanking - URL Opened
+2018-09-07 09:17:31,440 [main] INFO Inetbanking - URL Opened
+2018-09-07 17:32:12,174 [main] INFO Inetbanking - User Name Entered
+2018-09-07 17:32:12,329 [main] INFO Inetbanking - Password Entered
+2018-09-07 17:32:16,324 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-07 17:32:16,332 [main] INFO Inetbanking - Login Test Passed
+2018-09-07 18:37:21,653 [main] INFO Inetbanking - User Name Entered
+2018-09-07 18:37:21,708 [main] INFO Inetbanking - Password Entered
+2018-09-07 18:37:22,504 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-07 18:37:22,517 [main] INFO Inetbanking - Login Test Passed
+2018-09-13 22:34:10,810 [main] INFO Inetbanking - User Name Entered
+2018-09-13 22:34:10,897 [main] INFO Inetbanking - Password Entered
+2018-09-13 22:34:11,909 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-13 22:34:11,913 [main] INFO Inetbanking - Login Test Passed
+2018-09-13 22:35:13,240 [main] INFO Inetbanking - User Name Entered
+2018-09-13 22:35:13,290 [main] INFO Inetbanking - Password Entered
+2018-09-13 22:35:14,227 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-13 22:35:14,232 [main] INFO Inetbanking - Login Test Failed
+2018-09-14 00:14:43,329 [main] INFO Inetbanking - User Name Entered
+2018-09-14 00:14:43,381 [main] INFO Inetbanking - Password Entered
+2018-09-14 00:14:44,340 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-14 00:14:44,348 [main] INFO Inetbanking - Login Test Failed
+2018-09-14 00:18:14,678 [main] INFO Inetbanking - User Name Entered
+2018-09-14 00:18:14,731 [main] INFO Inetbanking - Password Entered
+2018-09-14 00:18:14,852 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-14 00:20:03,544 [main] INFO Inetbanking - User Name Entered
+2018-09-14 00:20:03,595 [main] INFO Inetbanking - Password Entered
+2018-09-14 00:20:03,712 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-14 00:22:44,264 [main] INFO Inetbanking - User Name Entered
+2018-09-14 00:22:44,317 [main] INFO Inetbanking - Password Entered
+2018-09-14 00:22:44,453 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-14 12:44:00,245 [main] INFO Inetbanking - User Name Entered
+2018-09-14 12:44:00,344 [main] INFO Inetbanking - Password Entered
+2018-09-14 12:44:01,457 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-14 12:44:01,813 [main] INFO Inetbanking - Login Test Failed
+2018-09-14 12:50:32,125 [main] INFO Inetbanking - User Name Entered
+2018-09-14 12:50:32,175 [main] INFO Inetbanking - Password Entered
+2018-09-14 12:50:33,149 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-14 12:50:33,541 [main] INFO Inetbanking - Login Test Failed
+2018-09-14 12:55:45,010 [main] INFO Inetbanking - User Name Entered
+2018-09-14 12:55:45,062 [main] INFO Inetbanking - Password Entered
+2018-09-14 12:55:45,987 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-14 12:55:45,991 [main] INFO Inetbanking - Login Test Passed
+2018-09-15 00:14:43,236 [main] INFO Inetbanking - User Name Entered
+2018-09-15 00:14:43,346 [main] INFO Inetbanking - Password Entered
+2018-09-15 00:14:44,277 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-15 00:14:44,281 [main] INFO Inetbanking - Login Test Passed
+2018-09-16 17:34:52,092 [main] INFO Inetbanking - User Name Entered
+2018-09-16 17:34:52,186 [main] INFO Inetbanking - Password Entered
+2018-09-16 17:34:53,075 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-16 17:34:53,080 [main] INFO Inetbanking - Login Test Passed
+2018-09-16 18:31:48,223 [main] INFO Inetbanking - User name provided
+2018-09-16 18:31:48,273 [main] INFO Inetbanking - Password provided
+2018-09-16 18:31:49,310 [main] INFO Inetbanking - Clicked on Submit
+2018-09-16 18:31:52,361 [main] INFO Inetbanking - Login Success
+2018-09-16 18:31:52,665 [main] INFO Inetbanking - Successfully Logout
+2018-09-16 18:31:56,440 [main] INFO Inetbanking - User name provided
+2018-09-16 18:31:56,485 [main] INFO Inetbanking - Password provided
+2018-09-16 18:31:56,668 [main] INFO Inetbanking - Clicked on Submit
+2018-09-16 18:32:01,368 [main] INFO Inetbanking - User name provided
+2018-09-16 18:32:01,423 [main] INFO Inetbanking - Password provided
+2018-09-16 18:32:01,535 [main] INFO Inetbanking - Clicked on Submit
+2018-09-16 18:32:05,362 [main] INFO Inetbanking - User name provided
+2018-09-16 18:32:05,417 [main] INFO Inetbanking - Password provided
+2018-09-16 18:32:05,523 [main] INFO Inetbanking - Clicked on Submit
+2018-09-17 20:48:57,746 [main] INFO Inetbanking - Login is Completed
+2018-09-17 20:49:03,983 [main] INFO Inetbanking - Providing customer details............
+2018-09-17 20:49:07,640 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-17 20:51:16,077 [main] INFO Inetbanking - Login is Completed
+2018-09-17 20:51:19,940 [main] INFO Inetbanking - Providing customer details............
+2018-09-17 20:51:23,681 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-17 21:02:30,585 [main] INFO Inetbanking - Login is Completed
+2018-09-17 21:02:34,661 [main] INFO Inetbanking - Providing customer details............
+2018-09-17 21:02:38,350 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-17 22:01:38,374 [main] INFO Inetbanking - Login is Completed
+2018-09-17 22:01:42,086 [main] INFO Inetbanking - Providing customer details............
+2018-09-17 22:01:45,707 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-17 22:09:18,886 [main] INFO Inetbanking - Login is Completed
+2018-09-17 22:09:22,515 [main] INFO Inetbanking - Providing customer details............
+2018-09-17 22:09:25,825 [main] INFO Inetbanking - City entered
+2018-09-17 22:09:26,030 [main] INFO Inetbanking - email address entered
+2018-09-17 22:09:26,063 [main] INFO Inetbanking - Password entered
+2018-09-17 22:09:26,113 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-17 22:11:14,319 [main] INFO Inetbanking - Login is Completed
+2018-09-17 22:11:18,222 [main] INFO Inetbanking - Providing customer details............
+2018-09-17 22:11:21,575 [main] INFO Inetbanking - City entered
+2018-09-17 22:11:21,785 [main] INFO Inetbanking - email address entered
+2018-09-17 22:11:21,811 [main] INFO Inetbanking - Password entered
+2018-09-17 22:11:21,866 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-17 22:16:19,815 [main] INFO Inetbanking - Login is Completed
+2018-09-17 22:16:23,471 [main] INFO Inetbanking - Providing customer details............
+2018-09-17 22:16:26,865 [main] INFO Inetbanking - City entered
+2018-09-17 22:16:27,068 [main] INFO Inetbanking - email address entered
+2018-09-17 22:16:27,095 [main] INFO Inetbanking - Password entered
+2018-09-17 22:16:27,148 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-17 23:30:41,290 [main] INFO Inetbanking - Login is Completed
+2018-09-17 23:30:44,897 [main] INFO Inetbanking - Providing customer details............
+2018-09-17 23:30:48,206 [main] INFO Inetbanking - City entered
+2018-09-17 23:30:48,408 [main] INFO Inetbanking - email address entered
+2018-09-17 23:30:48,433 [main] INFO Inetbanking - Password entered
+2018-09-17 23:30:48,493 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-17 23:32:06,484 [main] INFO Inetbanking - Login is Completed
+2018-09-17 23:32:10,130 [main] INFO Inetbanking - Providing customer details............
+2018-09-17 23:32:13,514 [main] INFO Inetbanking - City entered
+2018-09-17 23:32:16,742 [main] INFO Inetbanking - email address entered
+2018-09-17 23:32:16,768 [main] INFO Inetbanking - Password entered
+2018-09-17 23:32:16,828 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-18 00:00:44,812 [main] INFO Inetbanking - Login is Completed
+2018-09-18 00:00:48,574 [main] INFO Inetbanking - Providing customer details............
+2018-09-18 00:00:51,992 [main] INFO Inetbanking - City entered
+2018-09-18 00:00:55,265 [main] INFO Inetbanking - email address entered
+2018-09-18 00:00:55,312 [main] INFO Inetbanking - Password entered
+2018-09-18 00:00:56,180 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-18 00:02:43,318 [main] INFO Inetbanking - User Name Entered
+2018-09-18 00:02:43,376 [main] INFO Inetbanking - Password Entered
+2018-09-18 00:02:44,825 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-18 00:02:44,830 [main] INFO Inetbanking - Login Test Passed
+2018-09-18 00:02:51,896 [main] INFO Inetbanking - User name provided
+2018-09-18 00:02:51,948 [main] INFO Inetbanking - Password provided
+2018-09-18 00:02:52,825 [main] INFO Inetbanking - Clicked on Submit
+2018-09-18 00:02:55,840 [main] INFO Inetbanking - Login Success
+2018-09-18 00:02:56,156 [main] INFO Inetbanking - Successfully Logout
+2018-09-18 00:02:59,883 [main] INFO Inetbanking - User name provided
+2018-09-18 00:02:59,947 [main] INFO Inetbanking - Password provided
+2018-09-18 00:03:00,135 [main] INFO Inetbanking - Clicked on Submit
+2018-09-18 00:03:04,023 [main] INFO Inetbanking - User name provided
+2018-09-18 00:03:04,069 [main] INFO Inetbanking - Password provided
+2018-09-18 00:03:04,224 [main] INFO Inetbanking - Clicked on Submit
+2018-09-18 00:03:07,809 [main] INFO Inetbanking - User name provided
+2018-09-18 00:03:07,860 [main] INFO Inetbanking - Password provided
+2018-09-18 00:03:07,970 [main] INFO Inetbanking - Clicked on Submit
+2018-09-18 00:03:18,866 [main] INFO Inetbanking - Login is Completed
+2018-09-18 00:03:22,785 [main] INFO Inetbanking - Providing customer details............
+2018-09-18 00:03:26,141 [main] INFO Inetbanking - City entered
+2018-09-18 00:03:29,397 [main] INFO Inetbanking - email address entered
+2018-09-18 00:03:29,446 [main] INFO Inetbanking - Password entered
+2018-09-18 00:03:30,345 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-18 00:08:23,476 [main] INFO Inetbanking - User Name Entered
+2018-09-18 00:08:23,530 [main] INFO Inetbanking - Password Entered
+2018-09-18 00:08:24,458 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-18 00:08:24,463 [main] INFO Inetbanking - Login Test Passed
+2018-09-18 00:08:33,568 [main] INFO Inetbanking - User name provided
+2018-09-18 00:08:33,619 [main] INFO Inetbanking - Password provided
+2018-09-18 00:08:34,460 [main] INFO Inetbanking - Clicked on Submit
+2018-09-18 00:08:37,487 [main] INFO Inetbanking - Login Success
+2018-09-18 00:08:37,764 [main] INFO Inetbanking - Successfully Logout
+2018-09-18 00:08:41,550 [main] INFO Inetbanking - User name provided
+2018-09-18 00:08:41,603 [main] INFO Inetbanking - Password provided
+2018-09-18 00:08:41,718 [main] INFO Inetbanking - Clicked on Submit
+2018-09-18 00:08:45,639 [main] INFO Inetbanking - User name provided
+2018-09-18 00:08:45,685 [main] INFO Inetbanking - Password provided
+2018-09-18 00:08:45,789 [main] INFO Inetbanking - Clicked on Submit
+2018-09-18 00:08:49,609 [main] INFO Inetbanking - User name provided
+2018-09-18 00:08:49,654 [main] INFO Inetbanking - Password provided
+2018-09-18 00:08:49,765 [main] INFO Inetbanking - Clicked on Submit
+2018-09-18 00:09:02,826 [main] INFO Inetbanking - Login is Completed
+2018-09-18 00:09:07,401 [main] INFO Inetbanking - Providing customer details............
+2018-09-18 00:09:10,711 [main] INFO Inetbanking - City entered
+2018-09-18 00:09:13,976 [main] INFO Inetbanking - email address entered
+2018-09-18 00:09:14,020 [main] INFO Inetbanking - Password entered
+2018-09-18 00:09:14,802 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-18 20:46:24,593 [main] INFO Inetbanking - User Name Entered
+2018-09-18 20:46:24,673 [main] INFO Inetbanking - Password Entered
+2018-09-18 20:46:25,658 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-18 20:46:26,040 [main] INFO Inetbanking - Login Test Failed
+2018-09-18 20:46:34,931 [main] INFO Inetbanking - Login is Completed
+2018-09-18 20:46:38,673 [main] INFO Inetbanking - Providing customer details............
+2018-09-18 20:46:42,079 [main] INFO Inetbanking - City entered
+2018-09-18 20:46:45,349 [main] INFO Inetbanking - email address entered
+2018-09-18 20:46:45,396 [main] INFO Inetbanking - Password entered
+2018-09-18 20:46:46,056 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-18 20:48:19,104 [main] INFO Inetbanking - User Name Entered
+2018-09-18 20:48:19,152 [main] INFO Inetbanking - Password Entered
+2018-09-18 20:48:19,987 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-18 20:48:20,326 [main] INFO Inetbanking - Login Test Failed
+2018-09-18 20:48:28,772 [main] INFO Inetbanking - Login is Completed
+2018-09-18 20:48:32,665 [main] INFO Inetbanking - Providing customer details............
+2018-09-18 20:48:36,101 [main] INFO Inetbanking - City entered
+2018-09-18 20:48:39,417 [main] INFO Inetbanking - email address entered
+2018-09-18 20:48:39,464 [main] INFO Inetbanking - Password entered
+2018-09-18 20:48:40,253 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-18 20:54:16,430 [main] INFO Inetbanking - User Name Entered
+2018-09-18 20:54:16,481 [main] INFO Inetbanking - Password Entered
+2018-09-18 20:54:17,828 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-18 20:54:17,852 [main] INFO Inetbanking - Login Test Passed
+2018-09-18 20:54:26,022 [main] INFO Inetbanking - Login is Completed
+2018-09-18 20:54:29,855 [main] INFO Inetbanking - Providing customer details............
+2018-09-18 20:54:33,197 [main] INFO Inetbanking - City entered
+2018-09-18 20:54:36,474 [main] INFO Inetbanking - email address entered
+2018-09-18 20:54:36,519 [main] INFO Inetbanking - Password entered
+2018-09-18 20:54:37,284 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-18 21:58:00,488 [main] INFO Inetbanking - User Name Entered
+2018-09-18 21:58:00,548 [main] INFO Inetbanking - Password Entered
+2018-09-18 21:58:01,413 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-18 21:58:01,420 [main] INFO Inetbanking - Login Test Passed
+2018-09-18 21:58:09,333 [main] INFO Inetbanking - Login is Completed
+2018-09-18 21:58:13,230 [main] INFO Inetbanking - Providing customer details............
+2018-09-18 21:58:16,630 [main] INFO Inetbanking - City entered
+2018-09-18 21:58:16,865 [main] INFO Inetbanking - email address entered
+2018-09-18 21:58:16,910 [main] INFO Inetbanking - Password entered
+2018-09-18 21:58:17,723 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-21 09:50:58,623 [main] INFO Inetbanking - User Name Entered
+2018-09-21 09:50:58,675 [main] INFO Inetbanking - Password Entered
+2018-09-21 09:50:59,732 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-21 09:50:59,740 [main] INFO Inetbanking - Login Test Passed
+2018-09-21 09:51:09,078 [main] INFO Inetbanking - Login is Completed
+2018-09-21 09:51:12,717 [main] INFO Inetbanking - Providing customer details............
+2018-09-21 09:51:15,999 [main] INFO Inetbanking - City entered
+2018-09-21 09:51:16,254 [main] INFO Inetbanking - email address entered
+2018-09-21 09:51:16,295 [main] INFO Inetbanking - Password entered
+2018-09-21 09:51:16,935 [main] INFO Inetbanking - Validating adding new customer .........
+2018-09-21 11:45:48,427 [main] INFO Inetbanking - User Name Entered
+2018-09-21 11:45:48,613 [main] INFO Inetbanking - Password Entered
+2018-09-21 11:45:50,458 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-21 11:45:50,464 [main] INFO Inetbanking - Login Test Passed
+2018-09-21 20:49:25,968 [main] INFO Inetbanking - User Name Entered
+2018-09-21 20:49:26,052 [main] INFO Inetbanking - Password Entered
+2018-09-21 20:49:26,656 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-21 20:49:26,670 [main] INFO Inetbanking - Login Test Passed
+2018-09-21 21:16:01,136 [main] INFO Inetbanking - User Name Entered
+2018-09-21 21:16:01,185 [main] INFO Inetbanking - Password Entered
+2018-09-21 21:16:01,741 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-21 21:16:01,749 [main] INFO Inetbanking - Login Test Passed
+2018-09-21 21:22:28,138 [main] INFO Inetbanking - User Name Entered
+2018-09-21 21:22:28,189 [main] INFO Inetbanking - Password Entered
+2018-09-21 21:22:29,387 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-21 21:22:29,393 [main] INFO Inetbanking - Login Test Passed
+2018-09-21 21:23:42,136 [main] INFO Inetbanking - User Name Entered
+2018-09-21 21:23:42,192 [main] INFO Inetbanking - Password Entered
+2018-09-21 21:23:43,089 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-21 21:23:43,095 [main] INFO Inetbanking - Login Test Passed
+2018-09-21 21:36:06,202 [main] INFO Inetbanking - User Name Entered
+2018-09-21 21:36:06,253 [main] INFO Inetbanking - Password Entered
+2018-09-21 21:36:07,101 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-21 21:36:07,107 [main] INFO Inetbanking - Login Test Passed
+2018-09-21 22:06:34,323 [main] INFO Inetbanking - User Name Entered
+2018-09-21 22:06:34,374 [main] INFO Inetbanking - Password Entered
+2018-09-21 22:06:35,762 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-21 22:06:35,770 [main] INFO Inetbanking - Login Test Passed
+2018-09-21 23:40:23,741 [main] INFO Inetbanking - User Name Entered
+2018-09-21 23:40:23,839 [main] INFO Inetbanking - Password Entered
+2018-09-21 23:40:24,974 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-21 23:40:24,989 [main] INFO Inetbanking - Login Test Passed
+2018-09-22 18:26:02,358 [main] INFO Inetbanking - User Name Entered
+2018-09-22 18:26:02,720 [main] INFO Inetbanking - Password Entered
+2018-09-22 18:26:05,881 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-22 18:26:05,889 [main] INFO Inetbanking - Login Test Passed
+2018-09-22 18:26:23,981 [main] INFO Inetbanking - User Name Entered
+2018-09-22 18:26:24,039 [main] INFO Inetbanking - Password Entered
+2018-09-22 18:26:27,925 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-22 18:26:27,935 [main] INFO Inetbanking - Login Test Passed
+2018-09-22 16:35:23,150 [main] INFO Inetbanking - User Name Entered
+2018-09-22 16:35:23,206 [main] INFO Inetbanking - Password Entered
+2018-09-22 16:35:27,607 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-22 16:35:27,615 [main] INFO Inetbanking - Login Test Passed
+2018-09-22 16:58:25,892 [main] INFO Inetbanking - User Name Entered
+2018-09-22 16:58:25,946 [main] INFO Inetbanking - Password Entered
+2018-09-22 16:58:26,981 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-22 16:58:26,987 [main] INFO Inetbanking - Login Test Passed
+2018-09-22 20:57:49,024 [main] INFO Inetbanking - User Name Entered
+2018-09-22 20:57:49,105 [main] INFO Inetbanking - Password Entered
+2018-09-22 20:57:50,220 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-22 20:57:50,225 [main] INFO Inetbanking - Login Test Passed
+2018-09-22 23:29:18,872 [main] INFO Inetbanking - User Name Entered
+2018-09-22 23:29:18,965 [main] INFO Inetbanking - Password Entered
+2018-09-22 23:29:19,717 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-22 23:29:19,728 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 12:40:50,711 [main] INFO Inetbanking - User Name Entered
+2018-09-29 12:40:50,762 [main] INFO Inetbanking - Password Entered
+2018-09-29 12:40:50,945 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 12:44:50,070 [main] INFO Inetbanking - User Name Entered
+2018-09-29 12:44:50,128 [main] INFO Inetbanking - Password Entered
+2018-09-29 12:44:50,328 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 12:50:52,948 [main] INFO Inetbanking - User Name Entered
+2018-09-29 12:50:53,000 [main] INFO Inetbanking - Password Entered
+2018-09-29 12:50:53,898 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 12:50:53,903 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 12:51:32,436 [main] INFO Inetbanking - User Name Entered
+2018-09-29 12:51:32,492 [main] INFO Inetbanking - Password Entered
+2018-09-29 12:51:33,376 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 12:51:33,385 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 12:59:19,888 [main] INFO Inetbanking - User Name Entered
+2018-09-29 12:59:19,938 [main] INFO Inetbanking - Password Entered
+2018-09-29 12:59:20,599 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 12:59:20,604 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 11:30:15,302 [main] INFO Inetbanking - User Name Entered
+2018-09-29 11:30:15,382 [main] INFO Inetbanking - Password Entered
+2018-09-29 11:30:16,317 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 11:30:16,326 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 11:30:35,083 [main] INFO Inetbanking - User Name Entered
+2018-09-29 11:30:35,134 [main] INFO Inetbanking - Password Entered
+2018-09-29 11:30:35,941 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 11:30:35,946 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 11:31:47,360 [main] INFO Inetbanking - User Name Entered
+2018-09-29 11:31:47,420 [main] INFO Inetbanking - Password Entered
+2018-09-29 11:31:48,194 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 11:31:48,200 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 12:34:33,266 [main] INFO Inetbanking - User Name Entered
+2018-09-29 12:34:33,337 [main] INFO Inetbanking - Password Entered
+2018-09-29 12:34:34,576 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 12:34:34,581 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 12:34:49,842 [main] INFO Inetbanking - User Name Entered
+2018-09-29 12:34:49,892 [main] INFO Inetbanking - Password Entered
+2018-09-29 12:34:50,795 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 12:34:50,799 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 14:29:51,988 [main] INFO Inetbanking - User Name Entered
+2018-09-29 14:29:52,036 [main] INFO Inetbanking - Password Entered
+2018-09-29 14:29:52,839 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 14:29:52,843 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 19:30:42,240 [main] INFO Inetbanking - User Name Entered
+2018-09-29 19:30:42,294 [main] INFO Inetbanking - Password Entered
+2018-09-29 19:30:43,177 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 19:30:43,184 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 20:07:03,282 [main] INFO Inetbanking - User Name Entered
+2018-09-29 20:07:03,331 [main] INFO Inetbanking - Password Entered
+2018-09-29 20:07:05,154 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 20:07:05,158 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 20:08:43,036 [main] INFO Inetbanking - User Name Entered
+2018-09-29 20:08:43,088 [main] INFO Inetbanking - Password Entered
+2018-09-29 20:08:43,885 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 20:08:43,889 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 20:09:57,340 [main] INFO Inetbanking - User Name Entered
+2018-09-29 20:09:57,389 [main] INFO Inetbanking - Password Entered
+2018-09-29 20:09:58,221 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 20:09:58,226 [main] INFO Inetbanking - Login Test Passed
+2018-09-29 20:24:04,303 [main] INFO Inetbanking - User Name Entered
+2018-09-29 20:24:04,352 [main] INFO Inetbanking - Password Entered
+2018-09-29 20:24:05,047 [main] INFO Inetbanking - Clicked on Submit Button
+2018-09-29 20:24:05,054 [main] INFO Inetbanking - Login Test Passed
